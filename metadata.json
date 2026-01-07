@@ -1,0 +1,8 @@
+{
+  "name": "Linguist Pro: High School Language Learning",
+  "description": "An AI-powered grammar and vocabulary learning application tailored for high school students, featuring adaptive quizzes, real-time feedback, and visual progress tracking.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
